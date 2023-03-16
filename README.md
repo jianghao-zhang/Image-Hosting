@@ -1,2 +1,2 @@
-# blog-Image-Hosting
-Image hosting of my personal blog.
+# Image-Hosting
+Image hosting for my personal obsidian notes. All rights reserved.
